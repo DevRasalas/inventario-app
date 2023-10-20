@@ -20,6 +20,6 @@ public class Producto{
     Integer id;
     String descripcion;
     Double precio;
-    Integer Existencia;
+    Integer existencia;
 
 }
